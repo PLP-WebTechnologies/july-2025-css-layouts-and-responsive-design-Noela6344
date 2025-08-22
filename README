@@ -1,0 +1,47 @@
+Noella: # Trendy Styles 
+
+A simple fashion website built with *HTML* and *CSS* following all assignment rules.  
+This project showcases a clothing store landing page with trendy designs, new arrivals, and a contact form.
+
+---
+
+ Features
+- *Header & Navigation* – Includes links to Home, New Arrivals, Dresses, and Contact.  
+- *Product Section* – Displays 4 stylish women’s outfits (Floral Dress, Evening Gown, Casual Wear, Office Dress).  
+- *Sidebar* – Categories for Women, Dresses, and Accessories.  
+- *Contact Form* – Simple form with Name, Email, and Message fields.  
+- *Footer* – With copyright notice and social media links.  
+- *Responsive Design* – Works on desktop and mobile devices.  
+
+--- Preview
+The website highlights:
+- Elegant *New Arrivals* section with product cards.  
+- Clean, organized layout for easy browsing.  
+- Contact form for user inquiries.  
+
+---
+
+ Technologies Used
+- *HTML5*  
+- *CSS3* (Flexbox & basic responsiveness)  
+
+---
+
+ Project Structure
+[02:06, 23/08/2025] Noella: --- How to View
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+[02:09, 23/08/2025] Noella: 2.	Open index.html in your browser.
+	3.	Enjoy the fashion sit
+
+📩 Contact
+
+For any inquiries, feel free to reach out via the contact form or follow us on:
+	•	Instagram
+	•	Facebook
+	•	Twitter
+
+⸻
+
+© 2025 Trendy Styles – Where Fashion Meets Elegance ✨
